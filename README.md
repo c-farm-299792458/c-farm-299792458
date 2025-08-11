@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am avarage coder who loves competitive programming.
 
 I'm always playing bloxd as `c_farm_299792458`, but sometimes `c_farm_299792458_f000`.
-
+not accepting friend request from player i dont know in main acc (c_farm_299792458)
+c_farm_299792458_f000 is always accepting
 
 Idk what to write, tell me in issue (hmm... issue...? issue is not thingy for that...) (if you want)
