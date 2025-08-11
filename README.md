@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **c-farm-299792458/c-farm-299792458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am avarage coder who loves competitive programming.
+
+I'm always playing bloxd as `c_farm_299792458`, but sometimes `c_farm_299792458_f000`.
+
+
+Idk what to write, tell me in issue (hmm... issue...? issue is not thingy for that...) (if you want)
